@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cll:home|Door43 (cll)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cll|d43-cll repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cll/archive/master.zip|d43-cll.zip]]
+
+**Recent Changes**
+{{changes>ns = cll}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cll|Ethnologue data]]
+
